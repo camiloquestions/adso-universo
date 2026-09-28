@@ -111,7 +111,14 @@ UNIVERSO = [
 
     }
 ]
+,{
+        "creador": "camilo alejandro",
+        "nombre": "musculoso",
+        "clase": "mi mami",
+        "habilidad_especial": "pegarle a la novia",
+        "nivel": 67
 
+    }
 
 @router.get("/")
 def obtener_todos_los_personajes():
